@@ -1,5 +1,5 @@
 /*Stili per l'header*/
-#header-section{
+.header-section{
     background-color: rgb(0, 153, 255);
     background-image: url(../img/pattern.png);
     background-size: 50%;   
@@ -63,7 +63,7 @@ td{
     background-color: rgb(0, 255, 242);
 }
 
-/*Footer con il seguente contenitore*/
+/*Footer con i contenitori per la scritta sulle immagini*/
 .container{
     position: relative;
     color: white;
