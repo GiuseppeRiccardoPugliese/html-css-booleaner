@@ -47,6 +47,9 @@ table{
     background-color: rgb(0, 119, 255);
     color: white;
 }
-.content-colorato{
-    background-color: aqua;
+td{
+    width: 10%;
+}
+.colore{
+    background-color: rgb(0, 255, 242);
 }
